@@ -1,4 +1,12 @@
 # hello-world
 hello world discription
 
-adding some text... finished.
+
+First time using GitHub...
+
+making some edits to this file...
+
+...that's it
+
+
+resolved conflicts
